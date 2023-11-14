@@ -1,5 +1,9 @@
 /* styles.css */
 
+body {
+  background-color: #f2f2f2; /* Set your desired background color */
+}
+
 .custom-style {
   color: #FF5733;
   /* Text color */
@@ -7,3 +11,5 @@
   /* Font size */
   /* Add more style properties as needed */
 }
+
+/* Additional styles can be added here */
