@@ -1,7 +1,14 @@
-/* styles.css */
+/* your_style.css */
+
 body {
-  background-color: #FFC0CB; /* Pink */
+  /* Add styles for the body if needed */
 }
+
+h1 {
+  color: purple;
+  /* Add more styles as needed */
+}
+
 .custom-style {
   color: #FF5733;
   /* Text color */
@@ -9,4 +16,5 @@ body {
   /* Font size */
   /* Add more style properties as needed */
 }
+
 /* Additional styles can be added here */
